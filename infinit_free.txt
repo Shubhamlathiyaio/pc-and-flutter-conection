@@ -1,0 +1,2 @@
+hostname : msstorage.free.nf
+accound pass : ktVaziFK6q
